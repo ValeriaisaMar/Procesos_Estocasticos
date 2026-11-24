@@ -410,7 +410,7 @@ La aplicación se ejecuta localmente en:
 http://127.0.0.1:8000
 ```
 
-##  Autores: Roberto Carlos Lopez Sanchez, Keimer David Mercado Perez, Isabel Martinez
+##  Autores: Roberto Carlos Lopez Sanchez, Keimer David Mercado Perez, Valeria Isabel Martinez Luna
 
 **Proyecto:** InmoVIS – Sistema de Gestión Inmobiliaria VIS.
 
